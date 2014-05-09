@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bill Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_insturctions">Touch a date to modify bills</string>
+    <string name="view_title">View Bills</string>
+    <string name="placeholder_text">Placeholder Text</string>
+    <string name="add_bill_title">Add a New Bill</string>
+    <string name="bill_type_label">Bill Type</string>
+    <string name="bill_desc_label">Description (optional)</string>
+    <string name="bill_amount_label">Amount</string>
+    <string name="bill_due_date_label">Due On</string>
+    <string name="btn_add_confirm_text">Save</string>
+    <string name="btn_add_cancel_text">Cancel</string>
+    <string name="btn_edit_confirm_text">Update</string>
+    <string name="btn_edit_cancel_text">Cancel</string>
+    <string-array name="bill_types">
+        <item>Auto</item>
+        <item>Student Loans</item>
+        <item>Mortgage/Rent</item>
+        <item>Electric</item>
+        <item>Water/Sewage</item>
+        <item>Auto Insurance</item>
+        <item>Life Insurance</item>
+        <item>Medical Insurance</item>
+        <item>Trash Collection</item>
+        <item>Cell phone</item>
+        <item>Telephone</item>
+        <item>Internet</item>
+        <item>Cable TV</item>
+        <item>Association Dues</item>
+        <item>Property Tax</item>
+        <item>Gas/Heating Oil</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

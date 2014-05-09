@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1.0" >
+
+    <TextView
+        android:id="@+id/bill_holder_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.85"
+        android:focusable="false"
+        android:padding="10dp"
+        android:text="A sample bill text for your viewing pleaseure."
+        android:textColor="@color/calendar_background"
+        android:textSize="24sp" >
+    </TextView>
+
+    <ImageButton
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Button for deleting this bill"
+        android:src="@drawable/delete" />
+
+</LinearLayout>

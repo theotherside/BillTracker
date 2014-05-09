@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <color name="global_background">#2a2a2a</color>
+    <color name="calendar_background">#f1f1f1</color>
+    <color name="unfocused_date">#939393</color>
+    <color name="focused_date">#3f3f3f</color>
+    <color name="date_text">#ff0000</color>
+    <color name="view_bill_button_text">#ffffff</color>
+</resources>
